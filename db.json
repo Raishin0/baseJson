@@ -1,0 +1,6 @@
+{
+    "products":[{
+            "codigo": "string",
+            "nombre": "string"
+          }]
+}
