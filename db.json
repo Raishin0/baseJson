@@ -1,6 +1,7 @@
 {
     "products":[{
             "codigo": "string",
-            "nombre": "string"
+            "nombre": "string",
+            "otros": "string"
           }]
 }
