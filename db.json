@@ -2,6 +2,7 @@
     "products":[{
             "codigo": "string",
             "nombre": "string",
-            "otros": "string"
+            "otros": "string",
+            "otros1": "string"
           }]
 }
